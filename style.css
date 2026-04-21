@@ -176,3 +176,20 @@ button {
   color: #f39c12;
   border: 1px solid rgba(243, 156, 18, 0.4);
 }
+/* ===== BOUTON WHATSAPP ===== */
+.bouton-whatsapp {
+  display: inline-block;
+  margin-top: 20px;
+  background: #25D366;
+  color: white;
+  padding: 14px 28px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  transition: background 0.3s ease;
+}
+
+.bouton-whatsapp:hover {
+  background: #1ebe5d;
+}
