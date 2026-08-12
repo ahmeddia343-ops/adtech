@@ -131,6 +131,9 @@ button {
   text-align: center;
   border: 1px solid transparent;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .carte:hover {
