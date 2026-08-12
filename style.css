@@ -203,3 +203,8 @@ button {
 .bouton-whatsapp:hover {
   background: #1ebe5d;
 }
+
+.carte-mini {
+  display: block;
+  min-height: auto;
+}
