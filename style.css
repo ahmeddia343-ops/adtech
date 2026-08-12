@@ -176,6 +176,12 @@ button {
   color: #f39c12;
   border: 1px solid rgba(243, 156, 18, 0.4);
 }
+
+.badge-bientot {
+  background: rgba(52, 152, 219, 0.15);
+  color: #3498db;
+  border: 1px solid rgba(52, 152, 219, 0.4);
+}
 /* ===== BOUTON WHATSAPP ===== */
 .bouton-whatsapp {
   display: inline-block;
